@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   sodipodi:docname="03.flow_chart_Wrangling.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.8676908"
+     inkscape:cx="549.735"
+     inkscape:cy="429.87664"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4421"
+       transform="matrix(0.52673247,0,0,0.52673247,81.531626,-30.158473)"
+       inkscape:export-filename="flow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.352;stroke-opacity:1"
+         id="rect2079"
+         width="101.21642"
+         height="45.436573"
+         x="11.451491"
+         y="71.046425"
+         ry="4.4328361" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.87777px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352;stroke-opacity:1"
+         x="62.394913"
+         y="83.961761"
+         id="text2085"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="62.394913"
+           y="83.961761"
+           id="tspan27">Normalize the</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="62.394909"
+           y="96.308975"
+           id="tspan51">dependent variables</tspan></text>
+    </g>
+    <g
+       id="g4414"
+       transform="matrix(0.52673247,0,0,0.52673247,150.12767,-67.797184)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.352;stroke-opacity:1"
+         id="rect3580"
+         width="101.21642"
+         height="45.436573"
+         x="11.451491"
+         y="142.5034"
+         ry="4.4328361" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.87777px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352;stroke-opacity:1"
+         x="61.939125"
+         y="155.43074"
+         id="text3588"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="61.939125"
+           y="155.43074"
+           id="tspan28">Split the data into</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="61.939125"
+           y="167.77795"
+           id="tspan52">a training and</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="61.939125"
+           y="180.12517"
+           id="tspan53">testing set</tspan></text>
+    </g>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 72.6375,19.230445 H 84.678554"
+       id="path4407"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.712142;stroke-opacity:1"
+       id="rect1"
+       width="53.313976"
+       height="35.693359"
+       x="224.7556"
+       y="7.2639847"
+       ry="2.3349187" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.20294px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142;stroke-opacity:1"
+       x="251.38846"
+       y="14.073235"
+       id="text3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+         x="251.38846"
+         y="14.073235"
+         id="tspan33">Logistic Regression</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+         x="251.38846"
+         y="20.576908"
+         id="tspan61">Train the estimator</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+         x="251.38846"
+         y="27.080584"
+         id="tspan57">using Grid Search</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+         x="251.38846"
+         y="33.584259"
+         id="tspan58">Cross Validation</tspan></text>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 141.61196,19.230444 h 12.04105"
+       id="path13"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 210.20799,19.230444 h 12.04105"
+       id="path16"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1"
+       d="m 278.42563,19.230444 h 12.04105"
+       id="path17"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 4.0414545,19.230445 H 16.082508"
+       id="path18"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g23"
+       transform="matrix(0.52673247,0,0,0.52673247,12.93558,-30.158473)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.352;stroke-opacity:1"
+         id="rect20"
+         width="101.21642"
+         height="45.436573"
+         x="11.451491"
+         y="71.046425"
+         ry="4.4328361" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.87777px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352;stroke-opacity:1"
+         x="62.394913"
+         y="83.961761"
+         id="text23"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="62.394909"
+           y="83.961761"
+           id="tspan25">Choose 'Class' as</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="62.394913"
+           y="96.308975"
+           id="tspan50">the predictor variable</tspan></text>
+    </g>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1"
+       d="M 290.46668,19.230444 V 49.994448"
+       id="path33"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1"
+       d="M 4.0414545,49.994448 H 290.46668"
+       id="path34"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 4.0414546,72.622899 H 16.082508"
+       id="path39"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1"
+       d="m 4.0414545,49.994448 -5e-7,134.192842"
+       id="path40"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g65"
+       transform="translate(-7.9801452,-64.859121)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.712142;stroke-opacity:1"
+         id="rect61"
+         width="53.889812"
+         height="30.146765"
+         x="26.947598"
+         y="122.40864"
+         ry="2.3349187" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.20294px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142;stroke-opacity:1"
+         x="53.580456"
+         y="129.21788"
+         id="text65"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="129.21788"
+           id="tspan62">Logistic Regression</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="135.72156"
+           id="tspan63">Train the estimator</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="142.22523"
+           id="tspan64">using Grid Search</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="148.72891"
+           id="tspan65">Cross Validation</tspan></text>
+    </g>
+    <g
+       id="g69"
+       transform="translate(-7.9801452,-27.670989)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.712142;stroke-opacity:1"
+         id="rect65"
+         width="53.889812"
+         height="30.146765"
+         x="26.947598"
+         y="122.40864"
+         ry="2.3349187" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.20294px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142;stroke-opacity:1"
+         x="53.580456"
+         y="129.21788"
+         id="text69"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="129.21788"
+           id="tspan66">SVM</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="135.72156"
+           id="tspan67">Train the estimator</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="142.22523"
+           id="tspan68">using Grid Search</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="148.72891"
+           id="tspan69">Cross Validation</tspan></text>
+    </g>
+    <g
+       id="g73"
+       transform="translate(-7.9801452,9.5171428)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.712142;stroke-opacity:1"
+         id="rect69"
+         width="53.889812"
+         height="30.146765"
+         x="26.947598"
+         y="122.40864"
+         ry="2.3349187" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.20294px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142;stroke-opacity:1"
+         x="53.580456"
+         y="129.21788"
+         id="text73"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="129.21788"
+           id="tspan70">Decision Tree</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="135.72156"
+           id="tspan71">Train the estimator</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="142.22523"
+           id="tspan72">using Grid Search</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="148.72891"
+           id="tspan73">Cross Validation</tspan></text>
+    </g>
+    <g
+       id="g77"
+       transform="translate(-7.9801452,46.705275)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.712142;stroke-opacity:1"
+         id="rect73"
+         width="53.889812"
+         height="30.146765"
+         x="26.947598"
+         y="122.40864"
+         ry="2.3349187" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.20294px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142;stroke-opacity:1"
+         x="53.580456"
+         y="129.21788"
+         id="text77"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="129.21788"
+           id="tspan74">KNN</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="135.72156"
+           id="tspan75">Train the estimator</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="142.22523"
+           id="tspan76">using Grid Search</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="148.72891"
+           id="tspan77">Cross Validation</tspan></text>
+    </g>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 4.0414544,109.81103 H 16.082508"
+       id="path77"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 4.0414542,146.99916 H 16.082508"
+       id="path78"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 4.041454,184.18729 H 16.082508"
+       id="path79"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g82"
+       transform="translate(61.547808,-64.859127)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.712142;stroke-opacity:1"
+         id="rect79"
+         width="53.889812"
+         height="30.146765"
+         x="26.947598"
+         y="122.40864"
+         ry="2.3349187" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.20294px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142;stroke-opacity:1"
+         x="53.580456"
+         y="129.21788"
+         id="text82"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="129.21788"
+           id="tspan79">Logistic Regression</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="135.72156"
+           id="tspan82">Pick the best</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="142.22523"
+           id="tspan129">performing estimator</tspan></text>
+    </g>
+    <g
+       id="g86"
+       transform="translate(61.547808,-27.670995)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.712142;stroke-opacity:1"
+         id="rect82"
+         width="53.889812"
+         height="30.146765"
+         x="26.947598"
+         y="122.40864"
+         ry="2.3349187" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.20294px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142;stroke-opacity:1"
+         x="53.580456"
+         y="129.21788"
+         id="text86"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="129.21788"
+           id="tspan83">SVM</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="135.72156"
+           id="tspan86">Pick the best</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="142.22523"
+           id="tspan131">performing estimator</tspan></text>
+    </g>
+    <g
+       id="g90"
+       transform="translate(61.547808,9.5171368)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.712142;stroke-opacity:1"
+         id="rect86"
+         width="53.889812"
+         height="30.146765"
+         x="26.947598"
+         y="122.40864"
+         ry="2.3349187" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.20294px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142;stroke-opacity:1"
+         x="53.580456"
+         y="129.21788"
+         id="text90"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="129.21788"
+           id="tspan87">Decision Tree</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="135.72156"
+           id="tspan90">Pick the best</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="142.22523"
+           id="tspan133">performing estimator</tspan></text>
+    </g>
+    <g
+       id="g94"
+       transform="translate(61.547808,46.705269)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.712142;stroke-opacity:1"
+         id="rect90"
+         width="53.889812"
+         height="30.146765"
+         x="26.947598"
+         y="122.40864"
+         ry="2.3349187" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.20294px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142;stroke-opacity:1"
+         x="53.580456"
+         y="129.21788"
+         id="text94"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="129.21788"
+           id="tspan91">KNN</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="135.72156"
+           id="tspan94">Pick the best</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="142.22523"
+           id="tspan135">performing estimator</tspan></text>
+    </g>
+    <g
+       id="g98"
+       transform="translate(131.07576,-64.859138)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.712142;stroke-opacity:1"
+         id="rect94"
+         width="53.889812"
+         height="30.146765"
+         x="26.947598"
+         y="122.40864"
+         ry="2.3349187" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.20294px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142;stroke-opacity:1"
+         x="53.580456"
+         y="129.21788"
+         id="text98"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="129.21788"
+           id="tspan95">Logistic Regression</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="135.72156"
+           id="tspan98">Plot the confusion</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="142.22523"
+           id="tspan137">matrix and calculate</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="148.72891"
+           id="tspan138">the R2 score</tspan></text>
+    </g>
+    <g
+       id="g102"
+       transform="translate(131.07576,-27.671006)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.712142;stroke-opacity:1"
+         id="rect98"
+         width="53.889812"
+         height="30.146765"
+         x="26.947598"
+         y="122.40864"
+         ry="2.3349187" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.20294px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142;stroke-opacity:1"
+         x="53.580456"
+         y="129.21788"
+         id="text102"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="129.21788"
+           id="tspan99">SVM</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="135.72156"
+           id="tspan102">Plot the confusion</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="142.22523"
+           id="tspan140">matrix and calculate</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="148.72891"
+           id="tspan141">the R2 score</tspan></text>
+    </g>
+    <g
+       id="g106"
+       transform="translate(131.07576,9.5171258)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.712142;stroke-opacity:1"
+         id="rect102"
+         width="53.889812"
+         height="30.146765"
+         x="26.947598"
+         y="122.40864"
+         ry="2.3349187" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.20294px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142;stroke-opacity:1"
+         x="53.580456"
+         y="129.21788"
+         id="text106"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="129.21788"
+           id="tspan103">Decision Tree</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="135.72156"
+           id="tspan106">Plot the confusion</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="142.22523"
+           id="tspan143">matrix and calculate</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="148.72891"
+           id="tspan144">the R2 score</tspan></text>
+    </g>
+    <g
+       id="g110"
+       transform="translate(131.07576,46.705258)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.712142;stroke-opacity:1"
+         id="rect106"
+         width="53.889812"
+         height="30.146765"
+         x="26.947598"
+         y="122.40864"
+         ry="2.3349187" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.20294px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142;stroke-opacity:1"
+         x="53.580456"
+         y="129.21788"
+         id="text110"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="129.21788"
+           id="tspan107">KNN</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="135.72156"
+           id="tspan110">Plot the confusion</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="142.22523"
+           id="tspan146">matrix and calculate</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+           x="53.580456"
+           y="148.72891"
+           id="tspan147">the R2 score</tspan></text>
+    </g>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 73.569408,72.622893 H 85.610461"
+       id="path110"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 73.569407,109.81103 H 85.610461"
+       id="path111"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 73.569407,146.99916 H 85.610461"
+       id="path112"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 73.569407,184.18729 H 85.610461"
+       id="path113"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 143.09736,72.622882 h 12.04105"
+       id="path114"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 143.09736,109.81102 h 12.04105"
+       id="path115"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 143.09736,146.99915 h 12.04105"
+       id="path116"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 143.09736,184.18728 h 12.04105"
+       id="path117"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1"
+       d="m 212.62531,72.622882 h 12.04105"
+       id="path118"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1"
+       d="m 212.62531,109.81102 h 12.04105"
+       id="path119"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1"
+       d="m 212.62531,146.99915 h 12.04105"
+       id="path120"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1"
+       d="m 212.62531,184.18728 h 12.04105"
+       id="path121"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1"
+       d="M 224.66636,72.622882 V 184.18728"
+       id="path122"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.712143;stroke-linecap:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 225.3785,128.40508 h 12.04105"
+       id="path123"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.712142;stroke-opacity:1"
+       id="rect123"
+       width="53.313976"
+       height="23.932919"
+       x="240.3045"
+       y="116.43862"
+       ry="2.3349187" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.20294px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142;stroke-opacity:1"
+       x="266.89795"
+       y="127.0167"
+       id="text125"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+         x="266.89795"
+         y="127.0167"
+         id="tspan125">Compare the R2</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.712142"
+         x="266.89795"
+         y="133.52037"
+         id="tspan127">values</tspan></text>
+  </g>
+</svg>

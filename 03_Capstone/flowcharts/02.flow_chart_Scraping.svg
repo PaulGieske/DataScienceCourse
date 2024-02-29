@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="02.flow_chart_Scraping.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.71624579"
+     inkscape:cx="920.07521"
+     inkscape:cy="479.58397"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4427"
+       inkscape:export-filename="01.flow_chart_AP.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(0,-6.879167)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.352;stroke-opacity:1"
+         id="rect1636"
+         width="101.95522"
+         height="30.660452"
+         x="11.451491"
+         y="11.820899"
+         ry="4.4328361" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.17222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352;stroke-opacity:1"
+         x="62.549683"
+         y="23.52178"
+         id="text1640"><tspan
+           sodipodi:role="line"
+           style="font-size:9.17222px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="62.549683"
+           y="23.52178"
+           id="tspan1885">Get the html data </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:9.17222px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="62.549683"
+           y="35.009338"
+           id="tspan2091">requests.get(...)</tspan></text>
+    </g>
+    <g
+       id="g4421"
+       transform="translate(0,-8.1515012)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.352;stroke-opacity:1"
+         id="rect2079"
+         width="101.21642"
+         height="45.436573"
+         x="11.451491"
+         y="71.046425"
+         ry="4.4328361" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.17222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352;stroke-opacity:1"
+         x="62.394913"
+         y="83.961761"
+         id="text2085"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-size:9.17222px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="62.394913"
+           y="83.961761"
+           id="tspan5033">Create a beautiful soup</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-size:9.17222px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="62.394913"
+           y="95.42704"
+           id="tspan5037">object from the data</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:9.17222px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="62.394913"
+           y="106.9146"
+           id="tspan5039">BeautifulSoup(...)</tspan></text>
+    </g>
+    <g
+       id="g4414"
+       transform="translate(0,-6.879167)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.352;stroke-opacity:1"
+         id="rect3580"
+         width="101.21642"
+         height="45.436573"
+         x="11.451491"
+         y="142.5034"
+         ry="4.4328361" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.17222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352;stroke-opacity:1"
+         x="61.939125"
+         y="155.43074"
+         id="text3588"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-size:9.17222px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="61.939125"
+           y="155.43074"
+           id="tspan3597">Extract the tables</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-size:9.17222px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="61.939125"
+           y="166.89601"
+           id="tspan5068" /><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:9.17222px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="61.939129"
+           y="178.38358"
+           id="tspan5048">soup.findall('table')</tspan></text>
+    </g>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.352;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 62.429103,35.602179 V 58.462083"
+       id="path4407"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.352;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 62.059703,108.33146 v 22.8599"
+       id="path4695"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352;stroke-opacity:1"
+       x="66.760712"
+       y="50.917599"
+       id="text4701"><tspan
+         sodipodi:role="line"
+         id="tspan4699"
+         style="font-size:9.17222px;text-align:start;text-anchor:start;stroke:none;stroke-width:1.352"
+         x="66.760712"
+         y="50.917599">html object</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352;stroke-opacity:1"
+       x="68.755943"
+       y="124.82111"
+       id="text4705"><tspan
+         sodipodi:role="line"
+         id="tspan4703"
+         style="font-size:9.17222px;text-align:start;text-anchor:start;stroke:none;stroke-width:1.352"
+         x="68.755943"
+         y="124.82111">beautiful soup object</tspan></text>
+    <g
+       id="g5060"
+       transform="translate(165.45546,-137.56171)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.352;stroke-opacity:1"
+         id="rect5052"
+         width="101.21642"
+         height="45.436573"
+         x="11.451491"
+         y="142.5034"
+         ry="4.4328361" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.17222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352;stroke-opacity:1"
+         x="19.235453"
+         y="150.6683"
+         id="text5058"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-size:9.17222px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="19.235453"
+           y="150.6683"
+           id="tspan5074">For each row of each </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-size:9.17222px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="19.235453"
+           y="162.13358"
+           id="tspan5056">table: </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-size:9.17222px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="19.235453"
+           y="173.59886"
+           id="tspan5095"> - get cell values. </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-size:9.17222px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+           x="19.235453"
+           y="185.06413"
+           id="tspan5093"> - create a dictionary</tspan></text>
+    </g>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.352;stroke-opacity:1"
+       d="m 62.059703,181.06076 v 22.8599"
+       id="path5062"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352;stroke-opacity:1"
+       x="68.755943"
+       y="197.54968"
+       id="text5066"><tspan
+         sodipodi:role="line"
+         id="tspan5064"
+         style="font-size:9.17222px;text-align:start;text-anchor:start;stroke:none;stroke-width:1.352"
+         x="68.755943"
+         y="197.54968">list of tables</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.35739;stroke-opacity:1"
+       id="rect5099"
+       width="101.21103"
+       height="30.654608"
+       x="176.90965"
+       y="78.529861"
+       ry="4.4685087" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352;stroke-opacity:1"
+       x="227.39374"
+       y="90.551941"
+       id="text5107"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-size:9.17222px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+         x="227.39374"
+         y="90.551941"
+         id="tspan5105">Convert the dictionary</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-size:9.17222px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352"
+         x="227.39374"
+         y="102.01722"
+         id="tspan5122">to a pandas DataFrame</tspan></text>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.352;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 227.51517,50.378293 v 22.8599"
+       id="path5111"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352;stroke-opacity:1"
+       x="234.21056"
+       y="66.867851"
+       id="text5115"><tspan
+         sodipodi:role="line"
+         id="tspan5113"
+         style="font-size:9.17222px;text-align:start;text-anchor:start;stroke:none;stroke-width:1.352"
+         x="234.21056"
+         y="66.867851">dictionary</tspan></text>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.352;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 227.51516,109.18443 v 22.8599"
+       id="path5128"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.352;stroke-opacity:1"
+       x="234.21054"
+       y="125.6741"
+       id="text5132"><tspan
+         sodipodi:role="line"
+         id="tspan5130"
+         style="font-size:9.17222px;text-align:start;text-anchor:start;stroke:none;stroke-width:1.352"
+         x="234.21054"
+         y="125.6741">data frame</tspan></text>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.352;stroke-opacity:1"
+       d="M 62.059703,203.12079 H 163.60244"
+       id="path5250"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.352;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 163.60244,27.660016 h 9.07115"
+       id="path5264"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.352;stroke-opacity:1"
+       d="M 163.60244,27.660016 V 203.12079"
+       id="path5274"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
